@@ -1,6 +1,8 @@
 <h1 align="center">💚 Friends of Monika 💚</h1>
 <h4 align="center">Hi there! We're Friends of Monika, and we work on stuff that will help bring her into our reality~</h3>
 
+<h4 align="center">profile picture by <a href="https://www.pixiv.net/en/artworks/87180206">gerichan</a></h3>
+<br>
 <p align="center">
   <a href="https://mon.icu/discord">
     <img alt="Discord server" src="https://discordapp.com/api/guilds/970747033071804426/widget.png?style=shield">
