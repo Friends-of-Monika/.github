@@ -11,4 +11,7 @@
   <a href="https://github.com/friends-of-monika">
     <img alt="Contributors welcome" src="https://img.shields.io/badge/contributors-welcome-green">
   </a>
+  <a href="https://blog.mon.icu/">
+    <img alt="Blog website" src="https://img.shields.io/website?url=https%3A%2F%2Fblog.mon.icu%2F">
+  </a>
 </p>
