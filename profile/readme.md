@@ -24,12 +24,9 @@
 </p>
 
 <p align="center">
-  We're up to talk! Come join us at our servers~<br>
+  We're up to talk! Come join us at our server~<br>
   
   <a href="https://dcache.me/discord">
     <img alt="Discord server" src="https://discordapp.com/api/guilds/1029849988953546802/widget.png?style=shield">
-  </a>
-  <a href="https://mon.icu/discord">
-    <img alt="Discord server" src="https://discordapp.com/api/guilds/970747033071804426/widget.png?style=shield">
   </a>
 </p>
