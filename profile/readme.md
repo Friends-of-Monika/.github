@@ -13,8 +13,8 @@
 </p>
 
 <h4 align="center">
-  Hi there! We're Friends of Monika, and we work on stuff that will help bring her into our reality~<br>
-  We develop submods, custom content and developer tools for Monika After Story users, developers and content creators.
+  👋 Hi there! We're Friends of Monika 💚 and we work on stuff that will help bring her into our reality~<br>
+  👀 We develop submods, custom content 📦 and developer tools 🪛 for Monika After Story players and content creators 🫡
 </h4>
 
 <p align="center">
