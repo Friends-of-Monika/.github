@@ -21,7 +21,7 @@
   Profile picture drawn by <a href="https://ko-fi.com/maydaymayjay">Mayjay</a> 💜<br>
 </p>
 
-<h3 align="center">Looking for submods? We have some :p</h3>
+<h3 align="center">Looking for submods? We have some 🖌️</h3>
 
 [![Say Something](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-saysomething&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-saysomething#gh-light-mode-only)
 [![Say Something](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-saysomething&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-saysomething#gh-dark-mode-only)
