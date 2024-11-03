@@ -37,3 +37,6 @@
 [![Where is That From](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-wtf&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-wtf#gh-dark-mode-only)
 [![Log Screen](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-logscreen&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-logscreen#gh-light-mode-only)
 [![Log Screen](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-logscreen&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-logscreen#gh-dark-mode-only)
+
+[![Mark as Seen](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-mark-as-seen&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-mark-as-seen#gh-light-mode-only)
+[![Mark as Seen](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-mark-as-seen&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-mark-as-seen#gh-dark-mode-only)
