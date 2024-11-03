@@ -18,10 +18,14 @@
 </h4>
 
 <p align="center">
-  Profile picture drawn by <a href="https://ko-fi.com/maydaymayjay">Mayjay</a> 💜<br>
+  Profile picture drawn by <a href="https://ko-fi.com/maydaymayjay">Mayjay</a> 💜 •
+  Custom pins thanks to <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> 📜
 </p>
 
 <h3 align="center">Looking for submods? We have some 🖌️</h3>
+<p align="center">
+  <sup>Help another content update come out sooner &mdash; <a href="https://ko-fi.com/dreamscached">support us</a> 💝</sup>
+</p>
 
 [![Say Something](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-saysomething&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-saysomething#gh-light-mode-only)
 [![Say Something](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-saysomething&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-saysomething#gh-dark-mode-only)
