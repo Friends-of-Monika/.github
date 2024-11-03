@@ -42,3 +42,8 @@
 [![Mark as Seen](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-mark-as-seen&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-mark-as-seen#gh-dark-mode-only)
 [![Comfy UI](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=ddlc-comfy-ui&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/ddlc-comfy-ui#gh-light-mode-only)
 [![Comfy UI](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=ddlc-comfy-ui&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/ddlc-comfy-ui#gh-dark-mode-only)
+
+
+<h4 align="center">
+  Please do not try to install our other repositories as submods. They're <i>really, really</i> not, unless we say they are. Thank you 💚
+</h4>
