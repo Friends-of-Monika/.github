@@ -45,5 +45,6 @@
 
 
 <h4 align="center">
-  Please do not try to install our other repositories as submods. They're <i>really, really</i> not, unless we say they are. Thank you 💚
+  Please do not try to install our other repositories as submods. They're<br>
+  <i>really, really</i> not, unless we say they are. Thank you 💚
 </h4>
