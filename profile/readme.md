@@ -17,8 +17,23 @@
   We develop submods, custom content and developer tools for Monika After Story users, developers and content creators.
 </h4>
 
-<br>
-
 <p align="center">
-  Profile picture drawn by <a href="https://ko-fi.com/maydaymayjay">Mayjay 💜</a><br>
+  Profile picture drawn by <a href="https://ko-fi.com/maydaymayjay">Mayjay</a> 💜<br>
 </p>
+
+<h3 align="center">Looking for submods? We have some :p</h3>
+
+![Say Something](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-saysomething&hide_border=true#gh-light-mode-only)
+![Say Something](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-saysomething&theme=github_dark&hide_border=true#gh-dark-mode-only)
+![Autostart](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-autostart&hide_border=true#gh-light-mode-only)
+![Autostart](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-autostart&theme=github_dark&hide_border=true#gh-dark-mode-only)
+
+![Discord Presence](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-presence&hide_border=true#gh-light-mode-only)
+![Discord Presence](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-presence&theme=github_dark&hide_border=true#gh-dark-mode-only)
+![Self-harm Awareness](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-selfharm&hide_border=true#gh-light-mode-only)
+![Self-harm Awareness](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-selfharm&theme=github_dark&hide_border=true#gh-dark-mode-only)
+
+![Where is That From](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-wtf&hide_border=true#gh-light-mode-only)
+![Where is That From](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-wtf&theme=github_dark&hide_border=true#gh-dark-mode-only)
+![Log Screen](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-logscreen&hide_border=true#gh-light-mode-only)
+![Log Screen](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-logscreen&theme=github_dark&hide_border=true#gh-dark-mode-only)
