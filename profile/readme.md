@@ -7,7 +7,7 @@
   <a href="https://github.com/friends-of-monika">
     <img alt="Contributors welcome" src="https://img.shields.io/badge/contributors-welcome-green">
   </a>
-  <a href="https://dcache.me/discord">
+  <a href="https://mon.icu/discord">
     <img alt="Discord server" src="https://discordapp.com/api/guilds/1029849988953546802/widget.png?style=shield">
   </a>
 </p>
