@@ -52,3 +52,8 @@
   Please do not try to install our other repositories as submods. They're<br>
   <i>really, really</i> not, unless we say they are. Thank you 💚
 </h4>
+
+<h3 align="center">Need spritepacks too? 💃</h3>
+
+[![Otter's Archive](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=otter-spritepacks&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/otter-spritepacks#gh-light-mode-only)
+[![Otter's Archive](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=otter-spritepacks&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/otter-spritepacks#gh-dark-mode-only)
