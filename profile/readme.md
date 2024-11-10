@@ -47,6 +47,9 @@
 [![Comfy UI](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=ddlc-comfy-ui&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/ddlc-comfy-ui#gh-light-mode-only)
 [![Comfy UI](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=ddlc-comfy-ui&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/ddlc-comfy-ui#gh-dark-mode-only)
 
+[![Noises Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-noises&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-noises#gh-light-mode-only)
+[![Noises Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-noises&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-noises#gh-dark-mode-only)
+
 
 <h4 align="center">
   Please do not try to install our other repositories as submods. They're<br>
