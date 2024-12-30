@@ -49,6 +49,8 @@
 
 [![Noises Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-noises&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-noises#gh-light-mode-only)
 [![Noises Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-noises&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-noises#gh-dark-mode-only)
+[![Autosave Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-autosave&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-autosave#gh-light-mode-only)
+[![Autosave Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-autosave&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-autosave/mas-noises#gh-dark-mode-only)
 
 
 <h4 align="center">
