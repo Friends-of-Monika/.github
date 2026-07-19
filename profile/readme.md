@@ -55,6 +55,12 @@
 [![Week Format Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-week-format&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-week-format#gh-light-mode-only)
 [![Week Format Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-week-format&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-week-format#gh-dark-mode-only)
 
+[![DOOM Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-doom&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-doom#gh-light-mode-only)
+[![DOOM Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-doom&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-doom#gh-dark-mode-only)
+
+[![CozyUI](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-cozyui&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-cozyui#gh-light-mode-only)
+[![CozyUI](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-cozyui&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-cozyui#gh-dark-mode-only)
+
 
 <h4 align="center">
   Please do not try to install our other repositories as submods. They're<br>
