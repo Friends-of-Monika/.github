@@ -19,7 +19,7 @@
 
 <p align="center">
   Profile picture drawn by <a href="https://ko-fi.com/maydaymayjay">Mayjay</a> 💜 •
-  Custom pins thanks to <a href="https://github.com/anuraghazra/github-stats-extended">github-stats-extended</a> 📜
+  Custom pins thanks to <a href="https://github.com/stats-organization/github-stats-extended">github-stats-extended</a> 📜
 </p>
 
 <h3 align="center">Looking for submods? We have some 🖌️</h3>
