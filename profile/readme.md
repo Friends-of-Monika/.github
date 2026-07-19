@@ -19,7 +19,7 @@
 
 <p align="center">
   Profile picture drawn by <a href="https://ko-fi.com/maydaymayjay">Mayjay</a> 💜 •
-  Custom pins thanks to <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> 📜
+  Custom pins thanks to <a href="https://github.com/anuraghazra/github-stats-extended">github-stats-extended</a> 📜
 </p>
 
 <h3 align="center">Looking for submods? We have some 🖌️</h3>
@@ -27,39 +27,39 @@
   <sup>Help another content update come out sooner &mdash; <a href="https://ko-fi.com/dreamscached">support us</a> 💝</sup>
 </p>
 
-[![Say Something](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-saysomething&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-saysomething#gh-light-mode-only)
-[![Say Something](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-saysomething&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-saysomething#gh-dark-mode-only)
-[![Autostart](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-autostart&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-autostart#gh-light-mode-only)
-[![Autostart](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-autostart&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-autostart#gh-dark-mode-only)
+[![Say Something](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-saysomething&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-saysomething#gh-light-mode-only)
+[![Say Something](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-saysomething&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-saysomething#gh-dark-mode-only)
+[![Autostart](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-autostart&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-autostart#gh-light-mode-only)
+[![Autostart](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-autostart&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-autostart#gh-dark-mode-only)
 
-[![Discord Presence](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-presence&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-presence#gh-light-mode-only)
-[![Discord Presence](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-presence&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-presence#gh-dark-mode-only)
-[![Self-harm Awareness](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-selfharm&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-selfharm#gh-light-mode-only)
-[![Self-harm Awareness](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-selfharm&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-selfharm#gh-dark-mode-only)
+[![Discord Presence](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-presence&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-presence#gh-light-mode-only)
+[![Discord Presence](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-presence&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-presence#gh-dark-mode-only)
+[![Self-harm Awareness](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-selfharm&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-selfharm#gh-light-mode-only)
+[![Self-harm Awareness](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-selfharm&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-selfharm#gh-dark-mode-only)
 
-[![Where is That From](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-wtf&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-wtf#gh-light-mode-only)
-[![Where is That From](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-wtf&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-wtf#gh-dark-mode-only)
-[![Log Screen](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-logscreen&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-logscreen#gh-light-mode-only)
-[![Log Screen](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-logscreen&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-logscreen#gh-dark-mode-only)
+[![Where is That From](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-wtf&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-wtf#gh-light-mode-only)
+[![Where is That From](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-wtf&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-wtf#gh-dark-mode-only)
+[![Log Screen](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-logscreen&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-logscreen#gh-light-mode-only)
+[![Log Screen](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-logscreen&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-logscreen#gh-dark-mode-only)
 
-[![Mark as Seen](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-mark-as-seen&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-mark-as-seen#gh-light-mode-only)
-[![Mark as Seen](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-mark-as-seen&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-mark-as-seen#gh-dark-mode-only)
-[![Comfy UI](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=ddlc-comfy-ui&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/ddlc-comfy-ui#gh-light-mode-only)
-[![Comfy UI](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=ddlc-comfy-ui&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/ddlc-comfy-ui#gh-dark-mode-only)
+[![Mark as Seen](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-mark-as-seen&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-mark-as-seen#gh-light-mode-only)
+[![Mark as Seen](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-mark-as-seen&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-mark-as-seen#gh-dark-mode-only)
+[![Comfy UI](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=ddlc-comfy-ui&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/ddlc-comfy-ui#gh-light-mode-only)
+[![Comfy UI](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=ddlc-comfy-ui&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/ddlc-comfy-ui#gh-dark-mode-only)
 
-[![Noises Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-noises&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-noises#gh-light-mode-only)
-[![Noises Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-noises&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-noises#gh-dark-mode-only)
-[![Autosave Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-autosave&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-autosave#gh-light-mode-only)
-[![Autosave Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-autosave&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-autosave#gh-dark-mode-only)
+[![Noises Submod](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-noises&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-noises#gh-light-mode-only)
+[![Noises Submod](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-noises&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-noises#gh-dark-mode-only)
+[![Autosave Submod](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-autosave&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-autosave#gh-light-mode-only)
+[![Autosave Submod](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-autosave&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-autosave#gh-dark-mode-only)
 
-[![Week Format Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-week-format&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-week-format#gh-light-mode-only)
-[![Week Format Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-week-format&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-week-format#gh-dark-mode-only)
+[![Week Format Submod](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-week-format&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-week-format#gh-light-mode-only)
+[![Week Format Submod](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-week-format&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-week-format#gh-dark-mode-only)
 
-[![DOOM Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-doom&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-doom#gh-light-mode-only)
-[![DOOM Submod](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-doom&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-doom#gh-dark-mode-only)
+[![DOOM Submod](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-doom&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-doom#gh-light-mode-only)
+[![DOOM Submod](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-doom&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-doom#gh-dark-mode-only)
 
-[![CozyUI](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-cozyui&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-cozyui#gh-light-mode-only)
-[![CozyUI](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=mas-cozyui&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-cozyui#gh-dark-mode-only)
+[![CozyUI](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-cozyui&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-cozyui#gh-light-mode-only)
+[![CozyUI](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-cozyui&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-cozyui#gh-dark-mode-only)
 
 
 <h4 align="center">
@@ -69,5 +69,5 @@
 
 <h3 align="center">Need spritepacks too? 💃</h3>
 
-[![Otter's Archive](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=otter-spritepacks&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/otter-spritepacks#gh-light-mode-only)
-[![Otter's Archive](https://github-readme-stats.vercel.app/api/pin/?username=friends-of-monika&repo=otter-spritepacks&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/otter-spritepacks#gh-dark-mode-only)
+[![Otter's Archive](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=otter-spritepacks&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/otter-spritepacks#gh-light-mode-only)
+[![Otter's Archive](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=otter-spritepacks&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/otter-spritepacks#gh-dark-mode-only)
