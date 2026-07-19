@@ -54,7 +54,6 @@
 
 [![Week Format Submod](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-week-format&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-week-format#gh-light-mode-only)
 [![Week Format Submod](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-week-format&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-week-format#gh-dark-mode-only)
-
 [![DOOM Submod](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-doom&hide_border=true#gh-light-mode-only)](https://github.com/friends-of-monika/mas-doom#gh-light-mode-only)
 [![DOOM Submod](https://github-stats-extended.vercel.app/api/pin/?username=friends-of-monika&repo=mas-doom&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/friends-of-monika/mas-doom#gh-dark-mode-only)
 
